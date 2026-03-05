@@ -1,4 +1,4 @@
-# Itau Java 10x
+# Itau Java
 
 Um teste técnico pedido em vaga real do Itau.
 
